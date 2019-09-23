@@ -3,5 +3,6 @@ Fork of marlin 1.1.9 for XTLW2-extended / CL-260 of a3fbb2ee6 commit on branch X
 
 
 ### Added: 
+- fix build
 - 5 points level 
 - Titan direct extruder param
